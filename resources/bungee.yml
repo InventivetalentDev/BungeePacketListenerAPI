@@ -1,4 +1,4 @@
 name: BungeePacketListenerApi
 author: inventivetalent
 version: ${project.version}
-main: de.inventivegames.packetlistener.bungee.PacketListenerAPI
+main: org.inventivetalent.packetlistener.bungee.PacketListenerAPI
